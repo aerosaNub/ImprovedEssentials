@@ -1,0 +1,19 @@
+permission: core.ci ,/ci [player] (or if no player is specified themselves): clears inventory
+permission: core.help ,/help: lists all commands available to said person.
+permission: core.pm ,/pm [player] (aliases being msg,whisper all of those type): literally /msg in essentials.
+permission: core.reply ,/r: same as essentials
+permission: core.setspawn ,/setspawn: sets spawnpoint for all new members as well as teleports to them on /spawn.
+permission: core.spawn ,/spawn: teleports player to the ,/setspawn location. (cooldown 4 seconds)
+permission: core.tp ,/tp [player]: teleports user to player.
+permission: core.fly ,/fly: turns flight on and off.
+permission: core.fly.others ,/fly [player]: turns flight on and off.
+permission: core.nick ,/nick [nickname] (color codes enabled): nicknames yourself.
+permission: core.nick.others ,/nick [player] [nickname] (color codes enabled): change other players nicknames.
+permission: core.god ,/god [player] (or if no player is specified themselves): invulnerable to any type of damage.
+permission: core.vanish ,/vanish: self explanatory. removes from tablist ingame etc.
+permission: core.tpall ,/tpall: teleports everyone to executors location.
+permission: core.setwarp ,/setwarp: sets a warp at the executors location.
+permission: core.warp ,/warp [name] (if no warp is specified give list of all warps): warps player to said warp location.
+permission: core.gamemode ,/gamemode [creative,survival,adventure,spectator] [player] (if no gamemode specified, give list.) (If no player specified, set executor.): sets your gamemode.
+permission: core.broadcast ,/broadcast [message] (color enabled): broadcasts message to server.
+permission: core.clearchat ,/clearchat: clears chat of all messages.

@@ -1,0 +1,37 @@
+name: ImprovedEssentials
+main: org.improved.ess.Essentials
+version: 0.0.3-Beta
+author: Nathan
+commands:
+  broadcast:
+    aliases: [bc]
+  clearchat:
+    aliases: [cc]
+  chat:
+    aliases: [c]
+  teleportall:
+    aliases: [tpall]
+  teleport:
+    aliases: [tp]
+  teleporthere:
+    aliases: [tphere]
+  teleportposition:
+    aliases: [tppos]
+  #setwarp:
+  #warp:
+  clearinventory:
+    aliases: [ci]
+  flight:
+    aliases: [fly]
+  gamemode:
+    aliases: [gm]
+  god:
+  #nick:
+  #rank:
+  #vanish:
+   # aliases: [v]
+  createkit:
+  removekit:
+  kits:
+    aliases: [kit]
+  rename:

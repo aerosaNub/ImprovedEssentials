@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImprovedEssentials:jar">
+    <output-path>$PROJECT_DIR$/../../../../Built Plugins</output-path>
+    <root id="archive" name="ImprovedEssentials.jar">
+      <element id="module-output" name="ImprovedEssentials" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
